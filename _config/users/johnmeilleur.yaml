@@ -6,7 +6,7 @@ roles:
 email: john.meilleur@c3associates.com
 password: ""
 _uid: sC4b3b54750dc82becc0PPbFW4f
-password_hash: $2a$08$DULzjC9BaHwdef2WaZ0iVOYVKfTtbTkscrzS9hymq3pjBCj9QvaSK
+password_hash: Passw0rd#
 ---
 Have no fears, your password, while plain text to start, will be encrypted upon first login. If ever you need to manually reset a password you can wipe out the password fields and start anew.
 
