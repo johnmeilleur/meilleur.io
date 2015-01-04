@@ -1,0 +1,12 @@
+theme_name: c3
+
+favorite_sites:
+  -
+    name: C3 Associates
+    url: http://www.c3associates.com/
+
+site_twitter: c3associates
+
+# used in the feed
+site_language: en
+contact_email: john.meilleur@c3associates.com
